@@ -10,10 +10,11 @@ A simple way to go is to clone or download this git repository to your local mac
 
 # How to run the Project
 - Open index.html in your browser.
+- Or Start your Local Server on VSCode ( Live Server)
 
 
 # Technologies Used
-- Jasmine
+- [Jasmine](http://jasmine.github.io/)
 - jQuery
 - HTML5/CSS3
 
